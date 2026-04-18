@@ -38,3 +38,8 @@ desktop.ini
 # npm
 .npm/
 *.tgz
+
+# Claude Code local context (not shared)
+CLAUDE.md
+.claude.local.md
+.claude/
