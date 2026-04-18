@@ -1,0 +1,40 @@
+{
+  "name": "llm-waf",
+  "version": "0.0.1",
+  "description": "TypeScript-native Web Application Firewall for LLM inputs. Deterministic prompt injection defense, LATAM-first PII redaction, and OWASP LLM Top 10-mapped audit output. Edge-runtime compatible.",
+  "keywords": [
+    "llm-security",
+    "prompt-injection",
+    "owasp-llm-top-10",
+    "ai-security",
+    "typescript",
+    "edge-runtime",
+    "waf",
+    "appsec",
+    "pii-detection",
+    "guardrails",
+    "zod",
+    "mcp",
+    "genai-security",
+    "security-tooling",
+    "llm-safety"
+  ],
+  "homepage": "https://github.com/facundoib/llm-waf#readme",
+  "bugs": {
+    "url": "https://github.com/facundoib/llm-waf/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundoib/llm-waf.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Facundo Ibarzabal",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "README.md",
+    "LICENSE"
+  ]
+}
